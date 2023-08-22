@@ -1,4 +1,5 @@
-### I'm Rohithkumaran,
+## I'm Rohithkumaran,
+
 a dedicated tech explorer on a mission to uncover the depths of various technological domains. Join me as I delve into the exciting world of data science, AI, ML, DL, and NLP.
 
 ## Tech Voyager and Enthusiast
